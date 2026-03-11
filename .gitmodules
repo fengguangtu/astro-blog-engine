@@ -1,0 +1,3 @@
+[submodule "src/content/docs/mds"]
+	path = src/content/docs/mds
+	url = ../blog-content.git
